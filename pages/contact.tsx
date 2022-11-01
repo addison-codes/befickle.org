@@ -20,6 +20,10 @@ const contact = () => {
               <a href="tel:616.555.1212">616.555.1212</a>
             </div>
           </div>
+          <div className="mt-40 grayscale">
+
+          <iframe title='Map' src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCStRhTZOQOSax7HXfFlpiccRX3jn0DKLg&q=Union+Square,Grand+Rapids+Michigan" width="100%" height="400px" loading="lazy" />
+          </div>
         </section>
       </MainLayout>
     </div>
