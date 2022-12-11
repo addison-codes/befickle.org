@@ -26,7 +26,7 @@ async function ShopifyData(query) {
   }
 }
 
-export async function getAllProducts() {
+const getAllProducts = async () => {
   const query = `
   {
     products(first: 25) {
@@ -61,4 +61,8 @@ export async function getAllProducts() {
     : []
 
   return allProducts
+}
+
+module.exports = {
+  getAllProducts,
 }
