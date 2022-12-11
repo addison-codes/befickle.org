@@ -1,5 +1,5 @@
 import type { NextPage } from 'next'
-import Image from "next/legacy/image";
+import Image from "next/image";
 import Head from 'next/head'
 import Hero from '../components/Hero'
 import MainLayout from '../components/layout/MainLayout'
@@ -17,16 +17,50 @@ const Home: NextPage = () => {
       <MainLayout landing>
         <Hero image='hero-concert.png' cover='glitch-cover.png' home />
         <section className="w-1/2 mx-auto mt-14 lg:mt-36 lg:-mb-24 -mb-14">
-          <Image alt='Be Fickle Glitch Portrait' src={'/be-fickle-portrait.png'}  height='1270' width='800' />
+          <Image
+            alt='Be Fickle Glitch Portrait'
+            src={'/be-fickle-portrait.png'}
+            height='1270'
+            width='800'
+            style={{
+              maxWidth: "100%",
+              height: "auto"
+            }} />
         </section>
         <section id='about' className="pb-32 bg-white pt-44">
           <OffsetText title='Be Effervescent'>
           Be Fickle provides a platform for young people to voice their creative talents. Be Fickle allows struggling artists to create art for a cause and make an income free from the worries of everyday life.
           </OffsetText>
           <div className="flex justify-between mt-24 mb-24">
-            <Image alt='Woman with Be Fickle shirt' src={'/woman-bf-shirt.png'} height='541' width='361' />
-            <Image alt='Be Fickle Circle Logo' src={'/be-fickle-circle-logo.png'} height='266' width='266' objectFit='contain' />
-            <Image alt='Woman with white Be Fickle sweathsirt' src={'/woman-bf-white-sweater.png'} height='541' width='406' />
+            <Image
+              alt='Woman with Be Fickle shirt'
+              src={'/woman-bf-shirt.png'}
+              height='541'
+              width='361'
+              style={{
+                maxWidth: "100%",
+                height: "auto"
+              }} />
+            <Image
+              alt='Be Fickle Circle Logo'
+              src={'/be-fickle-circle-logo.png'}
+              height='266'
+              width='266'
+              style={{
+                maxWidth: "100%",
+                height: "auto",
+                objectFit: "contain"
+              }} />
+            <Image
+              alt='Woman with white Be Fickle sweathsirt'
+              src={'/woman-bf-white-sweater.png'}
+              height='541'
+              width='406'
+              style={{
+                maxWidth: "100%",
+                height: "auto",
+                objectFit: "contain"
+              }} />
           </div>
           <OffsetText title='Be Kaleidoscopic' inverse>
           We want to be the first choice for young people seeking an opportunity to express themselves however they see fit. Our mission is to create a foundation of unique opportunities in the arts, music, and entertainment industries that provide educational outcomes for our participants and enhance the          </OffsetText>
@@ -39,7 +73,7 @@ const Home: NextPage = () => {
         </section>
       </MainLayout>
     </div>
-  )
+  );
 }
 
 export default Home

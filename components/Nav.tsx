@@ -1,5 +1,5 @@
 
-import Image from "next/legacy/image";
+import Image from "next/image";
 import Link from 'next/link'
 
 
@@ -8,7 +8,23 @@ const Nav = ({home}: {home?:boolean}) => {
     <nav className={` ${home ? 'bg-transparent' : 'bg-white text-black'} z-10 relative`}>
       <div className="container flex flex-wrap items-center justify-between py-8 mx-auto">
         <Link id="title" href='/' className="font-mono text-2x">
-          { home ? <Image alt='Horizontal Logo' src='/horizontal-white.svg' width='650' height='120' /> : <Image alt='Horizontal Logo' src='/horizontal-black.svg' width='650' height='120'  />}
+          { home ? <Image
+            alt='Horizontal Logo'
+            src='/horizontal-white.svg'
+            width='650'
+            height='120'
+            style={{
+              maxWidth: "100%",
+              height: "auto"
+            }} /> : <Image
+            alt='Horizontal Logo'
+            src='/horizontal-black.svg'
+            width='650'
+            height='120'
+            style={{
+              maxWidth: "100%",
+              height: "auto"
+            }} />}
         </Link>
         <div className="flex justify-end gap-4 mx-auto text-lg uppercase sm:gap-16 md:text-3xl">
           <Link href='/#about'>About</Link>
@@ -16,7 +32,8 @@ const Nav = ({home}: {home?:boolean}) => {
           <Link href='/contact'>Contact</Link>
         </div>
       </div>
-    </nav>  )
+    </nav>
+  );
 }
 
 export default Nav
