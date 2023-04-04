@@ -27,8 +27,9 @@ const Nav = ({home}: {home?:boolean}) => {
             }} />}
         </Link>
         <div className="flex justify-end gap-4 mx-auto text-lg uppercase sm:gap-16 md:text-3xl">
-          <Link href='/#about'>About</Link>
+          <Link href='/about'>About</Link>
           <Link href='/support'>Support</Link>
+          <Link href='/events'>Events</Link>
           <Link href='/contact'>Contact</Link>
         </div>
       </div>
