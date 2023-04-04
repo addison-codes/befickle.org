@@ -14,7 +14,7 @@ const about = () => {
       </Head>
       <MainLayout>
       <OffsetText id="mission-statement" title="Mission Statement" white>
-      "At Live Fickle, we believe that mental health is the key to living a fulfilling and meaningful life. That's why we're dedicated to supporting individuals as they navigate the ups and downs of being human and embrace their true selves. We recognize that everyone is flawed, indecisive, and confused at times, but we also believe that these qualities make us kaleidoscopic and effervescent. Our goal is to create a community where individuals can feel comfortable exploring and expressing their thoughts, emotions, and identities without fear of judgment. By embracing our own fickleness and embracing each other, we can all learn to live authentically and embrace our unique, lovely selves."
+      &quot;At Live Fickle, we believe that mental health is the key to living a fulfilling and meaningful life. That&apos;s why we&apos;re dedicated to supporting individuals as they navigate the ups and downs of being human and embrace their true selves. We recognize that everyone is flawed, indecisive, and confused at times, but we also believe that these qualities make us kaleidoscopic and effervescent. Our goal is to create a community where individuals can feel comfortable exploring and expressing their thoughts, emotions, and identities without fear of judgment. By embracing our own fickleness and embracing each other, we can all learn to live authentically and embrace our unique, lovely selves.&quot;
     <br />
     <br />
     By embracing our own fickleness, we can all learn to love ourselves and each other just as we are.  
@@ -41,7 +41,7 @@ Bullying, intolerance and the strict adherence to socially acceptable norms have
 <br />
     <br />
 
-Bullying can cause a range of negative emotions and physical health problems in those who are targeted, and it can lead to social isolation, low self-esteem, and a sense of worthlessness. These negative effects can have a lasting impact on individuals' mental and physical health, even after the bullying has stopped.
+Bullying can cause a range of negative emotions and physical health problems in those who are targeted, and it can lead to social isolation, low self-esteem, and a sense of worthlessness. These negative effects can have a lasting impact on individuals&apos; mental and physical health, even after the bullying has stopped.
 <br />
     <br />
 
@@ -65,7 +65,7 @@ Here at Live Fickle we strive to promote tolerance, diversity, and acceptance, a
               />
       </div>
       <OffsetText id="mental-health" title="Good Mental Health" white>
-      Mental health is an important aspect of overall health and well-being. It refers to a person's emotional, psychological, and social well-being, and it affects how we think, feel, and behave. Good mental health is essential for living a happy and fulfilling life, and it can help us to cope with the challenges and stresses of everyday life.
+      Mental health is an important aspect of overall health and well-being. It refers to a person&apos;s emotional, psychological, and social well-being, and it affects how we think, feel, and behave. Good mental health is essential for living a happy and fulfilling life, and it can help us to cope with the challenges and stresses of everyday life.
       <br />
     <br />
     There are several reasons why mental health is important:
@@ -84,10 +84,10 @@ Here at Live Fickle we strive to promote tolerance, diversity, and acceptance, a
       </OffsetText>
 
       <OffsetText id="the-norm" title="Re-defining the Norm" white>
-      While "fickle" is often used in a negative sense to describe someone who is indecisive or unreliable, it can also be seen as a positive trait. For example, a person who is open-minded and willing to consider different viewpoints or options may be described as "fickle" in the sense that they are not rigidly fixed in their beliefs or preferences. This flexibility and adaptability should be seen as a strength. 
+      While &quot;fickle&quot; is often used in a negative sense to describe someone who is indecisive or unreliable, it can also be seen as a positive trait. For example, a person who is open-minded and willing to consider different viewpoints or options may be described as &quot;fickle&quot; in the sense that they are not rigidly fixed in their beliefs or preferences. This flexibility and adaptability should be seen as a strength. 
       <br />
     <br />
-    Here are a few reasons why "fickle" is a good word:    <br />
+    Here are a few reasons why &quot;fickle&quot; is a good word:    <br />
     <br />
     Open-mindedness: A person who is fickle may be more open to considering different viewpoints or options, rather than being rigidly fixed in their beliefs or preferences. This open-mindedness can be a valuable quality, as it allows a person to be more adaptable and flexible in their thinking.
     <br />
@@ -95,7 +95,7 @@ Here at Live Fickle we strive to promote tolerance, diversity, and acceptance, a
     Curiosity: Being fickle may indicate a curiosity or desire to explore and try new things, rather than being stuck in a rut or stuck in old habits. This desire for novelty and variety can be a driving force for personal growth and development.
     <br />
     <br />
-    Adaptability: In a rapidly changing world, the ability to adapt and change one's mind or allegiances can be a valuable asset. A fickle person may be more capable of adapting to new circumstances and making the most of new opportunities.
+    Adaptability: In a rapidly changing world, the ability to adapt and change one&apos;s mind or allegiances can be a valuable asset. A fickle person may be more capable of adapting to new circumstances and making the most of new opportunities.
       </OffsetText>    
     </MainLayout>
     </div>

@@ -24,8 +24,8 @@ export default function Support() {
           <h1 className="text-6xl font-semibold text-center text-white uppercase">
             Support Us
           </h1>
-          <p className="px-64 pt-12 pb-4 font-bold text-center">By purchasing Fickle merch, you'll not only be sporting some stylish picks, you'll also be supporting important causes such as mental health research, access to therapy and support services, and raising awareness about the importance of mental health.</p>
-          <p className="px-64 pb-12 font-bold text-center">Treat yourself to some new merchandise and feel good about supporting a cause that's close to your heart. Plus, you'll be the envy of all your friends with your stylish and socially conscious choices. Don't miss out – grab your merch now.</p>
+          <p className="px-64 pt-12 pb-4 font-bold text-center">By purchasing Fickle merch, you&apos;ll not only be sporting some stylish picks, you&apos;ll also be supporting important causes such as mental health research, access to therapy and support services, and raising awareness about the importance of mental health.</p>
+          <p className="px-64 pb-12 font-bold text-center">Treat yourself to some new merchandise and feel good about supporting a cause that&apos;s close to your heart. Plus, you&apos;ll be the envy of all your friends with your stylish and socially conscious choices. Don&apos;t miss out – grab your merch now.</p>
           <div className="flex flex-wrap items-center justify-around mt-24">
             <h2 className="mb-0 text-4xl font-bold uppercase md:">Be Lovely</h2>
             {/* <Button color="white" link="/support#shop">

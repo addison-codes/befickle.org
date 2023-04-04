@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           <h2 className='pb-8 text-3xl text-white uppercase'>To Be Fickle Is to be whole, to Live Fickle is to be human.</h2>
           <p className="pb-8 text-white">
 
-It is important to <span className="animate-pulse">recognize</span> that having negative character traits does not make a person "bad," and that everyone has the potential to <span className="animate-pulse">grow</span> and <span className="animate-pulse">change</span> in positive ways. By accepting ourselves and others as complex individuals with a mix of positive and negative traits, we can be more <span className="animate-pulse">understanding</span> and <span className="animate-pulse">compassionate</span> towards ourselves and others, and work towards becoming the <span className="animate-pulse">best</span> versions of ourselves.</p>
+It is important to <span className="animate-pulse">recognize</span> that having negative character traits does not make a person &quot;bad,&quot; and that everyone has the potential to <span className="animate-pulse">grow</span> and <span className="animate-pulse">change</span> in positive ways. By accepting ourselves and others as complex individuals with a mix of positive and negative traits, we can be more <span className="animate-pulse">understanding</span> and <span className="animate-pulse">compassionate</span> towards ourselves and others, and work towards becoming the <span className="animate-pulse">best</span> versions of ourselves.</p>
           <Image
             alt='Be Fickle Glitch Portrait'
             src={'/man-green-hat-wordmark.jpg'}
@@ -39,7 +39,7 @@ It is important to <span className="animate-pulse">recognize</span> that having 
           having defects or imperfections; not perfect or without error.
           </OffsetText>
           <OffsetText title='Indecisive' inverse>
-          unable to make up one's mind; hesitating or vacillating.
+          unable to make up one&apos;s mind; hesitating or vacillating.
           </OffsetText>
           <OffsetText title='Confused'>
           unable to think clearly; bewildered or perplexed.
@@ -90,7 +90,7 @@ It is important to <span className="animate-pulse">recognize</span> that having 
           <div className="container mx-auto text-black">
           <h1 className="text-3xl font-bold text-center uppercase">Support</h1>
           <p className="px-64 pt-12 font-bold text-center">Hey there! Are you looking to make a positive impact on your own mental health and the mental health of others? Our merchandise not only looks great, but a portion of the proceeds from every purchase goes towards supporting mental health initiatives.</p>
-          <p className="px-64 pt-4 pb-12 font-bold text-center">By purchasing Fickle merch, you'll not only be sporting some stylish picks, you'll also be supporting important causes such as mental health research, access to therapy and support services, and raising awareness about the importance of mental health.</p>
+          <p className="px-64 pt-4 pb-12 font-bold text-center">By purchasing Fickle merch, you&apos;ll not only be sporting some stylish picks, you&apos;ll also be supporting important causes such as mental health research, access to therapy and support services, and raising awareness about the importance of mental health.</p>
           <div className="flex flex-wrap items-center justify-around mt-24">
             <h2 className="mb-0 text-4xl font-bold uppercase md:">Be Lovely</h2>
             <Button color="white" link="/support#shop">
