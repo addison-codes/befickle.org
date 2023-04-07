@@ -22,7 +22,7 @@ const about = () => {
       <div className="container flex justify-center mx-auto">
       <Image
               alt='Be Fickle Circle Logo'
-              src={'/subway-mockup-newest.jpg'}
+              src='/subway-mockup-newest.jpg'
               height='666'
               width='666'
               style={{
