@@ -21,7 +21,7 @@ export default function Support() {
       </Head>
       <MainLayout>
         <section className="container mx-auto my-32">
-          <h1 className="text-6xl font-semibold text-center text-white uppercase">
+          <h1 className="text-6xl font-semibold text-center text-black uppercase">
             Support Us
           </h1>
           <p className="px-64 pt-12 pb-4 font-bold text-center">By purchasing Fickle merch, you&apos;ll not only be sporting some stylish picks, you&apos;ll also be supporting important causes such as mental health research, access to therapy and support services, and raising awareness about the importance of mental health.</p>

@@ -13,7 +13,7 @@ const Footer = () => {
         </div>
         <Image
           alt='Be Fickle | Be Flawed Round Logo'
-          src='/fickle-flawed-round-logo.png'
+          src='/stacked-black.png'
           height='200'
           width='200'
           style={{

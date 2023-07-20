@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <title>Live Fickle</title>
         <meta name="description" content="Be Fickle. Be Flawed. Be You." />
       </Head>
-      <MainLayout landing>
+      <MainLayout landing black>
         <Hero image='hero-concert.png' cover='glitch-cover.png' home />
         <div className='absolute h-screen'>
       </div>

@@ -12,8 +12,8 @@ const contact = () => {
       </Head>
       <MainLayout>
         <section className="container mx-auto my-32">
-          <h1 className="text-6xl font-semibold text-center text-white uppercase">Get In Touch</h1>
-          <button type="button" className="block mx-auto text-white hover:text-black border border-white hover:bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 font-bold px-5 py-2.5 text-center mt-12"><Link href="/mail">Join Our Mailing List &rarr;</Link></button>
+          <h1 className="text-6xl font-semibold text-center text-black uppercase">Get In Touch</h1>
+          <button type="button" className="block mx-auto text-black hover:text-white border border-black hover:bg-black focus:ring-4 focus:outline-none focus:ring-gray-300 font-bold px-5 py-2.5 text-center mt-12"><Link href="/mail">Join Our Mailing List &rarr;</Link></button>
           <div className="flex flex-wrap items-center justify-around mt-32">
             <h2 className="mb-0 text-4xl font-bold uppercase md:">Be Flawed</h2>
             <div className="flex flex-wrap items-center gap-12 mx-auto text-xl font-semibold md:gap-40">

@@ -12,7 +12,7 @@ const about = () => {
         <meta name="description" content="Be Fickle. Be Flawed. Be You." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <MainLayout>
+      <MainLayout black>
       <OffsetText id="mission-statement" title="Mission Statement" white>
       &quot;At Live Fickle, we believe that mental health is the key to living a fulfilling and meaningful life. That&apos;s why we&apos;re dedicated to supporting individuals as they navigate the ups and downs of being human and embrace their true selves. We recognize that everyone is flawed, indecisive, and confused at times, but we also believe that these qualities make us kaleidoscopic and effervescent. Our goal is to create a community where individuals can feel comfortable exploring and expressing their thoughts, emotions, and identities without fear of judgment. By embracing our own fickleness and embracing each other, we can all learn to live authentically and embrace our unique, lovely selves.&quot;
     <br />
